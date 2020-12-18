@@ -1,4 +1,4 @@
-# Basics and Base Line Math
+# Arithmetic and Variable Assignment
 
 # The first part is arithmetic and the second part is variable assignment. 
 
