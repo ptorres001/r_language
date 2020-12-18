@@ -1,6 +1,6 @@
 # Basics and Base Line Math
 
-# This file is the beginning of my journey into R and its syntax. The first part is arithmetics.
+# The first part is arithmetic and the second part is variable assignment. 
 
 1+1 # = 2
 
