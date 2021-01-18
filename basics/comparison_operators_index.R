@@ -39,5 +39,12 @@ names(v1) = c(v2)
 # now each entry has a name. I can call it by the index or the name
 v1
 
+# find the entries where the entry is greater than 100
+v1[v1>100]
 
+# you can name the comparison operator
+my.filter = v1>110
+
+# use the comparison operator in the vector
+v1[my.filter]
 
